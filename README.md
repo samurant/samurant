@@ -1,2 +1,0 @@
-# samurntn
-My repository
